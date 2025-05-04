@@ -1,4 +1,3 @@
-HERE ARE THE CERTIFICATES OF EDS COURSE , AND LINK OF PRESKILET VIDEO, AND EDS LABORATORY ASSIGNMNET .
-
+Here are the certificates of EDS course, and link of preskilet video , also the EDS Laboratory Assignment.
 ROLL NUMBER= CS6-10,
 PRN NUMBER=202401100119
